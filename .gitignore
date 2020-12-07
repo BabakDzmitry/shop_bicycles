@@ -1,0 +1,8 @@
+*.sqlite3
+.env
+.idea
+
+.pytest_cache
+*.pyc
+__pycache__/
+*.py[cod]
